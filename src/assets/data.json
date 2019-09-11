@@ -1,0 +1,5098 @@
+{
+    "words": [
+        {
+            "Grade": 1,
+            "Word": "a",
+            "Difficult": "FALSE",
+            "Length": 1
+        },
+        {
+            "Grade": 1,
+            "Word": "all",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "am",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "and",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "at",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "ball",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "be",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "bed",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "big",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "book",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "box",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "boy",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "but",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "came",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "can",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "car",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "cat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "come",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "cow",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "dad",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "day",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "did",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "do",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "dog",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "fat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "for",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "fun",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "get",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "go",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "good",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "got",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "had",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "hat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "he",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "hen",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "here",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "him",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "his",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "home",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "hot",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "I",
+            "Difficult": "TRUE",
+            "Length": 1
+        },
+        {
+            "Grade": 1,
+            "Word": "if",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "in",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "into",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "is",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "it",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "its",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "let",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "like",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "look",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "man",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "may",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "me",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "mom",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "my",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "no",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "not",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "of",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "oh",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "old",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "on",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "one",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "out",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "pan",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "pet",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "pig",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "play",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "ran",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "rat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "red",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "ride",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "run",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "sat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "see",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "she",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "sit",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "six",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "so",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "stop",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "sun",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "ten",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "the",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "this",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "to",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "top",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "toy",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "two",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "up",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "us",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "was",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "we",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 1,
+            "Word": "will",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 1,
+            "Word": "yes",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 1,
+            "Word": "you",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "about",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "add",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "after",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "ago",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "an",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 2,
+            "Word": "any",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "apple",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "are",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "as",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 2,
+            "Word": "ask",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "ate",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "away",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "baby",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "back",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bad",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "bag",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "base",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "bee",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "been",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "before",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "being",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "best",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bike",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bill",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bird",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "black",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "blue",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "boat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "both",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "bring",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "brother",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 2,
+            "Word": "brown",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "bus",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "buy",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "by",
+            "Difficult": "FALSE",
+            "Length": 2
+        },
+        {
+            "Grade": 2,
+            "Word": "cake",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "call",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "candy",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "change",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "child",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "city",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "clean",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "club",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "coat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "cold",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "coming",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "corn",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "could",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "cry",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "cup",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "cut",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "daddy",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "dear",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "deep",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "deer",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "doing",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "doll",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "door",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "down",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "dress",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "drive",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "drop",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "dry",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "duck",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "each",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "eat",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "eating",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "egg",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "end",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "fall",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "far",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "farm",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fast",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "father",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "feed",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "feel",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "feet",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fell",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "find",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fine",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fire",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "first",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "fish",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "five",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fix",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "flag",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "floor",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "fly",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "food",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "foot",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "four",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "fox",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "from",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "full",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "funny",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "game",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "gas",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "gave",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "girl",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "give",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "glad",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "goat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "goes",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "going",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "gold",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "gone",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "grade",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "grass",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "green",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "grow",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hand",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "happy",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "hard",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "has",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "have",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hear",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "help",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "here",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hill",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hit",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "hold",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hole",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "hop",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "hope",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "horse",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "house",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "how",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "ice",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "inch",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "inside",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "job",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "jump",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "just",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "keep",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "king",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "know",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "lake",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "land",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "last",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "late",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "lay",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "left",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "leg",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "light",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "line",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "little",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "live",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "lives",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "long",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "looking",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 2,
+            "Word": "lost",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "lot",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "love",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "mad",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "made",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "make",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "many",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "meat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "men",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "met",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "mile",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "milk",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "mine",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "miss",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "moon",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "more",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "most",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "mother",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "move",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "much",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "must",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "myself",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "nail",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "name",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "need",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "new",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "next",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "nice",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "night",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "nine",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "north",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "now",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "nut",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "off",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "only",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "open",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "or",
+            "Difficult": "TRUE",
+            "Length": 2
+        },
+        {
+            "Grade": 2,
+            "Word": "other",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "our",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "outside",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 2,
+            "Word": "over",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "page",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "park",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "part",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "pay",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "pick",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "plant",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "playing",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 2,
+            "Word": "pony",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "post",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "pull",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "put",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "rabbit",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "rain",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "read",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "rest",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "riding",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "road",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "rock",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "room",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "said",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "same",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "sang",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "saw",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "say",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "school",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "sea",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "seat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "seem",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "seen",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "send",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "set",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "seven",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "sheep",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "ship",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "shoe",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "show",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "sick",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "side",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "sing",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "sky",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "sleep",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "small",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "snow",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "some",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "soon",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "spell",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "start",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "stay",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "still",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "store",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "story",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "take",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "talk",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "tall",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "teach",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "tell",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "than",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "thank",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "that",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "them",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "then",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "there",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "they",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "thing",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "think",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "three",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "time",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "today",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "told",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "too",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "took",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "train",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "tree",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "truck",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "try",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "use",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "very",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "walk",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "want",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "warm",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "wash",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "way",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "week",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "well",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "went",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "were",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "wet",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "what",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "when",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "while",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "white",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 2,
+            "Word": "who",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "why",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "wind",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "wish",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "with",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "woke",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "wood",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "work",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "yellow",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 2,
+            "Word": "yet",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 2,
+            "Word": "your",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 2,
+            "Word": "zoo",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "able",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "above",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "afraid",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "afternoon",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 3,
+            "Word": "again",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "age",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "air",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "airplane",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "almost",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "alone",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "along",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "already",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "also",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "always",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "animal",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "another",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "anything",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "around",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "art",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "aunt",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "balloon",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "bark",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "barn",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "basket",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "beach",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "bear",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "because",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "become",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "began",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "begin",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "behind",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "believe",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "below",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "belt",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "better",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "birthday",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "body",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "bones",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "born",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "bought",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "bread",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "bright",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "broke",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "brought",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "busy",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "cabin",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "cage",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "camp",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "can't",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "care",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "carry",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "catch",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "cattle",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "cave",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "children",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "class",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "close",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "cloth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "coal",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "color",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "corner",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "cotton",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "cover",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "dark",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "desert",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "didn't",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "dinner",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "dishes",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "does",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "done",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "don't",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "dragon",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "draw",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "dream",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "drink",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "early",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "earth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "east",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "eight",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "even",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "ever",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "every",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "everyone",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "everything",
+            "Difficult": "TRUE",
+            "Length": 10
+        },
+        {
+            "Grade": 3,
+            "Word": "eyes",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "face",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "family",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "feeling",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "felt",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "few",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "fight",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "fishing",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "flower",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "flying",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "follow",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "forest",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "forgot",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "form",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "found",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "fourth",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "free",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "Friday",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "friend",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "front",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "getting",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "given",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "grandmother",
+            "Difficult": "FALSE",
+            "Length": 11
+        },
+        {
+            "Grade": 3,
+            "Word": "great",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "grew",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "ground",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "guess",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "hair",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "half",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "having",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "head",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "heard",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "he's",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "heat",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "hello",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "high",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "himself",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "hour",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "hundred",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "hurry",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "hurt",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "I'd",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "I'll",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "I'm",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "inches",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "isn't",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "it's",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "I've",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "kept",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "kids",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "kind",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "kitten",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "knew",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "knife",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "lady",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "large",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "largest",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "later",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "learn",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "leave",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "let's",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "letter",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "life",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "list",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "living",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "lovely",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "loving",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "lunch",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "mail",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "making",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "maybe",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "mean",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "merry",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "might",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "mind",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "money",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "month",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "morning",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "mouse",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "mouth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "Mr.",
+            "Difficult": "TRUE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "Mrs.",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "Ms.",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "music",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "near",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "nearly",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "never",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "news",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "noise",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "nothing",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "number",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "o'clock",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "often",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "oil",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "once",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "orange",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "order",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "own",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "pair",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "paint",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "paper",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "party",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "pass",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "past",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "penny",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "people",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "person",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "picture",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "place",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "plan",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "plane",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "please",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "pocket",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "point",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "poor",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "race",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "reach",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "reading",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "ready",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "real",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "rich",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "right",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "river",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "rocket",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "rode",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "round",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "rule",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "running",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "salt",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "says",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "sending",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "sent",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "seventh",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "sew",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "shall",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "short",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "shot",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "should",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "sight",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "sister",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "sitting",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "sixth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "sled",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "smoke",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "soap",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "someone",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "something",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 3,
+            "Word": "sometime",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "song",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "sorry",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "sound",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "south",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "space",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "spelling",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "spent",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "sport",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "spring",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "stairs",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "stand",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "state",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "step",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "stick",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "stood",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "stopped",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "stove",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "street",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "strong",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "study",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "such",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "sugar",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "summer",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "Sunday",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "supper",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "table",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "taken",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "taking",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "talking",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "teacher",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "team",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "teeth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "tenth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "that's",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "their",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "these",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "thinking",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 3,
+            "Word": "third",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "those",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "thought",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "throw",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "tonight",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "trade",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "trick",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "trip",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "trying",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "turn",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "twelve",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "twenty",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "uncle",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "under",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "upon",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "wagon",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "wait",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "walking",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "wasn't",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "watch",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "water",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "weather",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "we're",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "west",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "wheat",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "where",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "which",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "wife",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "wild",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "win",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "window",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "winter",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 3,
+            "Word": "without",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "woman",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "won",
+            "Difficult": "FALSE",
+            "Length": 3
+        },
+        {
+            "Grade": 3,
+            "Word": "won't",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "wool",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "word",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "working",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 3,
+            "Word": "world",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "would",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "write",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "wrong",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 3,
+            "Word": "yard",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "year",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 3,
+            "Word": "yesterday",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 3,
+            "Word": "you're",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "across",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "against",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "answer",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "awhile",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "between",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "board",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "bottom",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "breakfast",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 4,
+            "Word": "broken",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "build",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "building",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "built",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "captain",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "carried",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "caught",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "charge",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "chicken",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "circus",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "cities",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "clothes",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "company",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "couldn't",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "country",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "discover",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "doctor",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "doesn't",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "dollar",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "during",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "eighth",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "else",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "enjoy",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "enough",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "everybody",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 4,
+            "Word": "example",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "except",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "excuse",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "field",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "fifth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "finish",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "following",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 4,
+            "Word": "good-by",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "group",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "happened",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "harden",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "haven't",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "heavy",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "held",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "hospital",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "idea",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "instead",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "known",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "laugh",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "middle",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "minute",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "mountain",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "ninth",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "ocean",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "office",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "parent",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "peanut",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "pencil",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "picnic",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "police",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "pretty",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "prize",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "quite",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "radio",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "raise",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "really",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "reason",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "remember",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "return",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "Saturday",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "scare",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "second",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "since",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "slowly",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "stories",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "student",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "sudden",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "suit",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "sure",
+            "Difficult": "TRUE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "swimming",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "though",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "threw",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "tired",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "together",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "tomorrow",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "toward",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "tried",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "trouble",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "truly",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "turtle",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 4,
+            "Word": "until",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "village",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "visit",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "wear",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "we'll",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "whole",
+            "Difficult": "TRUE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "whose",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "women",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "wouldn't",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 4,
+            "Word": "writing",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "written",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 4,
+            "Word": "wrote",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 4,
+            "Word": "yell",
+            "Difficult": "FALSE",
+            "Length": 4
+        },
+        {
+            "Grade": 4,
+            "Word": "young",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 5,
+            "Word": "although",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "America",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "among",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 5,
+            "Word": "arrive",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "attention",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "beautiful",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "countries",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "course",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "cousin",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "decide",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "different",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "evening",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "favorite",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "finally",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "future",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "happiest",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "happiness",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "important",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "interest",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "piece",
+            "Difficult": "FALSE",
+            "Length": 5
+        },
+        {
+            "Grade": 5,
+            "Word": "planet",
+            "Difficult": "FALSE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "present",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "president",
+            "Difficult": "FALSE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "principal",
+            "Difficult": "TRUE",
+            "Length": 9
+        },
+        {
+            "Grade": 5,
+            "Word": "probably",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "problem",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "receive",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "sentence",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "several",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "special",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "suddenly",
+            "Difficult": "FALSE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "suppose",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "surely",
+            "Difficult": "TRUE",
+            "Length": 6
+        },
+        {
+            "Grade": 5,
+            "Word": "surprise",
+            "Difficult": "TRUE",
+            "Length": 8
+        },
+        {
+            "Grade": 5,
+            "Word": "they're",
+            "Difficult": "TRUE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "through",
+            "Difficult": "FALSE",
+            "Length": 7
+        },
+        {
+            "Grade": 5,
+            "Word": "usually",
+            "Difficult": "FALSE",
+            "Length": 7
+        }
+    ]
+}
